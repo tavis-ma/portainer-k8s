@@ -17,7 +17,7 @@ entries:
     - https://github.com/portainer/k8s
     type: application
     urls:
-    - https://github.com/portainer/k8s/releases/download/portainer-2.33.7/portainer-2.33.7.tgz
+    - https:///ghproxy.net/github.com/portainer/k8s/releases/download/portainer-2.33.7/portainer-2.33.7.tgz
     version: 2.33.7
   - apiVersion: v2
     appVersion: ce-latest-ee-2.33.6
