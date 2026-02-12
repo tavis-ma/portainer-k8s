@@ -7,7 +7,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 40dab157ce96b90e806b342c8727c6ee0e5850b7bb7bc09439a32c58adb0b883
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -25,7 +25,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 83e4281a132c4b5e5985267866a07b7e6d4db09e1e41826420c7de289d49c69d
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -43,7 +43,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 53a1994509d5885ab98cdb471cf92990e22aa7829265ffa9f3055b8701c937da
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -61,7 +61,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: ac8f663a68df4826b982587d007ea90eb83d344c9e0283b609de5643bed0d2f4
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -79,7 +79,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 3eb5ffe797edb01d74a37678a7c8739334b3a2779d13876694cc67047059615f
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -97,7 +97,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: c9b3feb016682fbc9b8156aaa4df76938b1145e964892923b97d64e21a6f4989
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -115,7 +115,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 5696a212a0233f7c45ba97f986a292ee5cbde21c9e4d716858761a96fef29d50
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -133,7 +133,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 3728ef9ef075b6fce44770eef29f8ef2e9dba33f2f2993d80fdd4f3e8f754d4c
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -151,7 +151,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: b0ecee16a8fe7907eb098d67fcc7bdcba2bb89678420630bd1a55d079957649e
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -169,7 +169,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: d12aeafb44bbafbcb9ed9f46ac5de51b1dc050948b077b62ecd7da8749eb218f
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -187,7 +187,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 7e331b85adf04a42275e2676b5cb979534d921a2cf2a5d205077cf6c250991d8
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -205,7 +205,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 2fe7ed6dc05bb76424d6ff463a92b9bcb04f01fc8e95908b743f5a07cb5f9613
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -223,7 +223,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 1be761d9a01d27cefdd376822e2027c5dfae95a95180e73bbb554f2b2cc5e597
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -241,7 +241,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: cf68d14bbdf5453422c3a881e472cb13f8e02354642741f646663547f8c8d421
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -259,7 +259,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 4648cf0f6531ee0957eb9af7e1342e0ad15389791728dab6f949ffa5f6520c64
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -277,7 +277,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: a4c6d86b8a9b1c5607ba7cc6256c0c98980c7f9f4794790a548475d6bd8d0867
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -295,7 +295,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: ce073f6e019395a8e2e560f3655079211db640989d769e23c3c2d06a06332296
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -313,7 +313,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 6f3db1147725d233b40b4dd07d1aa004b6ada70ea8853c1bcb6d62f8dfe1dd08
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -331,7 +331,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: e2ea818a3e6be60021c4544ea3b0721ea7e040803acd63b74d6569a14ec5dab3
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -349,7 +349,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: c26edc05d560830f3a5fdbfa6d4347f30656ffc2c6209cbd441f9c7974762434
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -367,7 +367,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 6f533549726f8e449dc39040e53c2bf23560230137a648e486dab27b2d3404c7
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -385,7 +385,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 15d057621d6ce9f9304caa5d8b65b3d51a2f213e66ba8138ea759789caae7245
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -403,7 +403,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: d8eb1c7822038293530a0f7b44d50d062b9dd5be95bd8dab21ab7dd42b6a761b
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -421,7 +421,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 8598c63a83c8590fe0087eee1de3b7913f3ca155fb75e0ff24a265134872e774
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -439,7 +439,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: cb7a4e4c3ad947a9087ec17664e0eedfcc941c2e30ae5fd7c8cc0c4cf9bd9db9
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -457,7 +457,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: f01637e4024e0eb11a4c259ff21547b9f26dd4b5a0336482ded8dfc0c3a26a6d
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -475,7 +475,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 40df867e320127a42caf2f962e426466e7f4292e0163a00a9d8a2a5d48a88789
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -493,7 +493,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: efbbb9a4100e79062298b0ff35f22575eb6035534b6bea1e9f727942eefb1a15
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -511,7 +511,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: b3ddfe3015dec84ac5bfff48920434387646ef45e0a623c7a9bd8c0c1e0cd1f5
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -529,7 +529,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 2579e8e381c86d8445bc0759f7a5602becb74446801e56cc6c90d8c3013677f7
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -547,7 +547,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: dfa06579d3bee95316b7b8dd297682f422e0c12b21cd43abc4fc2c61e88e4100
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -565,7 +565,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: ab611bd8cb6393cedb3186493f4f1016540d5f01f4a36cfd762736c76dc9e68e
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -583,7 +583,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 8a3d7063d3b3fe269b2a62f53809becfd253ced31e3ce1ce5c07803f5269f980
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -601,7 +601,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 3f105c533dfb68bf6619b489282e12bb0c6e21156a19c22100d8dac9794fbbf6
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: platform-team@portainer.io
       name: Portainer
@@ -619,7 +619,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 538ae9b6ea5a7e5288ae738cde51aa662cfa79ca882c6e45c65ad9fef264c5bb
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -637,7 +637,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 472585451c3d94128dd8620aec28e84274956170a299f116bd61a06e9b1dc06b
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -655,7 +655,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: aca7db03a3159b18aebf98bf589ec49f235980dad2090aee01b3b3916a93c433
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -673,7 +673,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 36e65f32acdd134af77337c3b6419febade5347c9a19141180158e1d41a3a6ac
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -691,7 +691,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: d7a91a22840b2f0aa3cd66d5069df7b0ee759b3c4831a8a8268e74456f514578
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -709,7 +709,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: c5409001dfb9b0f5ac745acbecf07e5759d370ff8ed5b26be120c9011f9ef79c
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -727,7 +727,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 325f7e982a9571c377e40a303c4e7e690d6b2ea8a842e87d731739084fa527dd
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -745,7 +745,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: c1413fe08a28ecc5b51a7a93bfa8c5842926690aa9847ced4a6a7ae93c183f87
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -763,7 +763,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: f8f2839d67a9ebaa1dc8ae5a39a4534696d8c7b8917cf635ad12d800a1817d9d
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -781,7 +781,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: d95296481377c52d6be8846501a3432ae7def944b055c7fd600a41bf936855d6
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -799,7 +799,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 020e14c2b85461db57a8bcb237bb667e8462f61dfc305ad31b90ff427d86a383
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -817,7 +817,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 43a52508bd4c0a6c47885266ee3c6bfb3ddca4e725885ee371050373065d6492
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -835,7 +835,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: a5b2cc89f7d249d210c0c8deebbb3578b9df2237d3449404db5d2d5b2d067af1
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -853,7 +853,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: f9200c47e525264717f888e984adf3a96b2e1c1b84099a977a4d998162d44bed
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -871,7 +871,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 05f050a4bcf2eed063a9295f1937348aac1ccd0e2f7ff65b4cde48a8b4c21726
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -889,7 +889,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 879d091fbdef921d412245033a454b9daa5f0728af8adec87985f54746500b88
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -907,7 +907,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: f81408972b3d49cadda50bc590e44fe76e49d715e9c673d929577b078f492f93
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -925,7 +925,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: f50dae07532afd32d820a4d0d4f18a8cf020907a580d4c1af0de590d192bc736
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -943,7 +943,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: eebb6baefd2a74c13acb6ae143ad6ee874b47f282db82bf5274462bee042d47c
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -961,7 +961,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: fb171b8e610f955a6413793128a9609d85df8fd540016747fe1d3bfe60cb709f
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -979,7 +979,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: ec7b1f6bffd1349156afc0deae84b3f2d31231223dfc45e57df1ba89af5f40eb
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -997,7 +997,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 9d77baf1848a1ee1c0918728583b5359dcc175798619ec6cd0a97e95dd6c9181
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1015,7 +1015,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: f41f4b147558d3105ff1baf6ab4ff1b24d500a489d5d5219bc5eb17ca7fd0391
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1033,7 +1033,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: e7d547c350768212c0fc315318c25d2e72f07150db6d1af71a1fca28a854b34a
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1051,7 +1051,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 21792f5bb76ca8394289822c0747f1a9f2fb5caf83fc52a7de2967cb02c479e2
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1069,7 +1069,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: d426723313c7a1f490cf6f40987493d603335392b2d18f8eefe7d82184ffbebc
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1087,7 +1087,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: f75734edc7a23c288d155f6cbd69c1b21a3174b222594a349007b25086ce5ee1
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1105,7 +1105,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 582485fa9cbdfc71275952b23d1940cd2c0050aed2f145b8fc3891e63c0582c7
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1123,7 +1123,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 91900bc1b81c9ccd2b2a8d5d7ddd821f4ff6d9867b4d46e9fa5d26472255eefb
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1141,7 +1141,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 4b9c8ddbbcdb4205052e3d900e71e33a4fc381b19b95925423b7ea2e4028c478
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1159,7 +1159,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 0e060b348ba9f22ef710c2e19b63fae58136d3fe216111b0e64fba9cfb02e107
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1177,7 +1177,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: cb85501eff4b8144c1434129e3054764ea35778c142c1fd73984cac58d5d99c2
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1195,7 +1195,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 1002ee92b77937b742896d6f8431c808ec8693bc61c9ee80d488c81759ce401e
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1213,7 +1213,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 3fc7fb6c1f615bb4b32f3e1ab08d17a7edf89c152311aeed860ce1ba988f7b46
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1231,7 +1231,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: f0e13dd3e7a05d17cb35c7879ffa623fd43b2c10ca968203e302b7a6c2764ddb
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1249,7 +1249,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 07c1f1bd60fe0a87f4ecf3be6d24f956cf3fe22aa8604797a9974baedc686b95
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1267,7 +1267,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 86cced0084dc8732a25af3e3a2d60edaf886f49d97e35787407f0758c4119cd2
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1285,7 +1285,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: d58cd497858380c0fd1a065c503393aacfeb2c4f46efc74f26c72738dae1becc
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1303,7 +1303,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 5c3c00397ca1364c2907ab8cc514974be788671121d5122324d9174dce4c1038
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1321,7 +1321,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: 94e86def2616805735d6e0ea454ade9343df91809f5a9cb16ae48e16356dba98
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1339,7 +1339,7 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: cb9ee53a4148518685763b2411e33a1ce3c61024d1e3ba275f6637a1e7e57527
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
@@ -1357,16 +1357,16 @@ entries:
     description: Helm chart used to deploy the Portainer for Kubernetes
     digest: edb0b7d0943bc6a97705c83c94bc8daa8fe842bd9fa56c133286f07e1be5fe42
     home: https://www.portainer.io
-    icon: https://github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
+    icon: https://ghproxy.net/github.com/portainer/portainer/raw/develop/app/assets/ico/apple-touch-icon.png
     maintainers:
     - email: davidy@funkypenguin.co.nz
       name: funkypenguin
       url: https://www.funkypenguin.co.nz
     name: portainer
     sources:
-    - https://github.com/portainer/portainer-k8s
+    - https://ghproxy.net/github.com/portainer/portainer-k8s
     type: application
     urls:
-    - https://github.com/portainer/charts/releases/download/portainer-0.0.1-fp1/portainer-0.0.1-fp1.tgz
+    - https://ghproxy.net/github.com/portainer/charts/releases/download/portainer-0.0.1-fp1/portainer-0.0.1-fp1.tgz
     version: 0.0.1-fp1
 generated: "2020-08-19T00:00:46.754739363Z"
